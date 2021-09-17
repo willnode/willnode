@@ -3,7 +3,7 @@
 
 <a href="https://u3d.as/mFe" target="_blank"><img align="right" height="150px" src="https://res.cloudinary.com/wellosoft/image/upload/c_fill,h_300,w_300/v1512857611/expertise/library-texdraw.png"></a>
 
-## I have a lot of projects, see [the complete list here](https://willnode.github.io/)
+## I have lots of projects, see [the complete list here](https://willnode.github.io/)
 
 When i was a kid, i'm mainly a game developer. Altough I'd (and will) never release a successful game, it did lead to the creation of [TEXDraw](https://u3d.as/mFe) for Unity.
 
