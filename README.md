@@ -14,4 +14,4 @@ The second running project is [DOM Cloud](https://domcloud.io/), it's a open and
 
 Go to [my website](https://wellosoft.net/) if you're curious more about myself.
 
-If you want to support me, go follow [my twitter](https://twitter.com/willnode), or much better, use one of my products :) thanks 💕
+If you want to support me, go follow [my twitter](https://twitter.com/willnode), or much better, use one of my products :) thanks :shipit:
