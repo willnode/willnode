@@ -14,4 +14,7 @@ The second running project is [DOM Cloud](https://domcloud.io/), it's a open and
 
 Go to [my website](https://wellosoft.net/) if you're curious more about myself.
 
-If you want to support me, go follow [my twitter](https://twitter.com/willnode), or much better, use one of my products :) thanks :shipit:
+If you want to support me, go follow [my twitter](https://twitter.com/willnode), or much better, 
+<a href="https://www.buymeacoffee.com/willnode" target="_blank">buy me a coffee</a> or use one of my products :) thanks :shipit:
+
+<a href="https://www.buymeacoffee.com/willnode" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="30px" alt="Buy Me A Coffee" ></a>
