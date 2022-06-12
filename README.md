@@ -10,7 +10,7 @@ When I was a kid, i'm mainly a game developer. Altough I'd (and will) never rele
 I mainly a web developer now. You can play my [Web toys](https://willnode.github.io/). Don't hesitate to ask me if I want to join your project. I will help when I have time (or your project is doing someting interesting to me).
 
 
-The second running project is [DOM Cloud](https://domcloud.co/), it's a open and free hosting service. Backstory because I need it most, and it hosts +10 of my own online projects, probably more later.
+The second big project is [DOM Cloud](https://domcloud.co/), it's a free web hosting service. Backstory because I need it most, and it hosts +10 of my own online projects, probably more later.
 
 Go to [my website](https://wellosoft.net/) if you're curious more about myself.
 
