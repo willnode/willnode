@@ -14,7 +14,3 @@ The second big project is [DOM Cloud](https://domcloud.co/), it's a free web hos
 
 Go to [my website](https://wellosoft.net/) if you're curious more about myself.
 
-If you want to support me, go follow [my twitter](https://twitter.com/willnode), or much better, 
-<a href="https://ko-fi.com/willnode" target="_blank">buy me a coffee</a> or use one of my products :) thanks :shipit:
-
-<a href="https://ko-fi.com/willnode" target="_blank"><img src="https://user-images.githubusercontent.com/20214420/149798252-4a215257-0ba6-440a-87b8-9c44ecdd9f8e.png" height="30px" alt="Ko-Fi" ></a>
