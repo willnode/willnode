@@ -7,10 +7,20 @@
 
 When I was a kid, i'm mainly a game developer. Altough I'd (and will) never release a successful game, it did lead to the creation of [TEXDraw](https://u3d.as/mFe) for Unity.
 
-I mainly a web developer now. You can play my [Web toys](https://willnode.github.io/). Don't hesitate to ask me if I want to join your project. I will help when I have time (or your project is doing someting interesting to me).
+I mainly a web developer now. You can play my [Web toys](https://willnode.github.io/). 
 
-
-The second big project is [DOM Cloud](https://domcloud.co/), it's a free web hosting service. Backstory because I need it most, and it hosts +10 of my own online projects, probably more later.
+The second big project is [DOM Cloud](https://domcloud.co/), it's a free web hosting service, because I need it most, and it hosts +10 of my own online projects, more coming later.
 
 Go to [my website](https://wellosoft.net/) if you're curious more about myself.
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=willnode&show_icons=true&count_private=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=willnode&show_icons=true&count_private=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
