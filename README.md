@@ -11,6 +11,10 @@ I mainly a web developer now. You can play my [Web toys](https://willnode.github
 
 The second big project is [DOM Cloud](https://domcloud.co/), it's a free web hosting service, because I need it most, and it hosts +10 of my own online projects, more coming later. It also hosts [forwarddomain.net](https://forwarddomain.net) which provides DNS-based domain redirect service for free.
 
+I also make web templates:
++ [laravel-template](https://github.com/willnode/laravel-template) Laravel + Vue.js + DaisyUI
++ [ci4-admin-lte](https://github.com/willnode/ci4-admin-lte) CI4 + AdminLTE + CRUD
+
 Go to [my website](https://wellosoft.net/) if you're curious more about myself.
 
 <picture>
